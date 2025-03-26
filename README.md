@@ -41,6 +41,7 @@ To address these challenges, we need a smart, automated solution that:
 This solution will reduce manual effort, increase accuracy, and streamline compliance validation for Data Analysts, enabling them to focus on strategic decision-making rather than repetitive rule extraction and data validation tasks
 
 ## 🎯 Architecture
+![Architectual Design](https://github.com/user-attachments/assets/4f8dcc69-a41d-45d3-be3a-1f1f67a2d322)
 
 
 ## 🎥 Demo
@@ -204,6 +205,6 @@ By overcoming these challenges, we built a robust, scalable, and intelligent com
 ## 👥 Team
 - **Neeraj Sukheja**
 - **Sneha Sethia**
-- **Jeena Manuel **
+- **Jeena Manuel**
 - **Arabinda Mishra**
 - **Anand Rema Haridasan**
