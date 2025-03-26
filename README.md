@@ -14,7 +14,31 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Problem Statement
+
+In industries dealing with regulatory compliance, Data Analysts often face challenges in interpreting complex regulatory instructions and applying them to large datasets for validation. The process of manually extracting rules from regulatory documents and ensuring compliance with datasets is:
+
+    Time-consuming and prone to human errors
+
+    Inconsistent, leading to incorrect rule interpretation
+
+    Difficult to scale, as new regulations and datasets frequently change
+
+    Lacking automation, requiring manual intervention for validation and anomaly detection
+
+To address these challenges, we need a smart, automated solution that:
+
+    Extracts clear, structured business rules from regulatory instruction files using LLMs (OpenAI GPT).
+
+    Applies these rules to uploaded datasets to validate compliance automatically.
+
+    Generates Python validation scripts dynamically to flag non-conforming records and suggest remedial actions.
+
+    Leverages machine learning techniques for anomaly detection and provides insights in a downloadable format.
+
+    Ensures that analysts can re-use extracted rules for future dataset validations without re-processing instructions.
+
+This solution will reduce manual effort, increase accuracy, and streamline compliance validation for Data Analysts, enabling them to focus on strategic decision-making rather than repetitive rule extraction and data validation tasks
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
