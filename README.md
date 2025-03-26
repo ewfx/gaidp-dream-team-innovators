@@ -40,6 +40,9 @@ To address these challenges, we need a smart, automated solution that:
 
 This solution will reduce manual effort, increase accuracy, and streamline compliance validation for Data Analysts, enabling them to focus on strategic decision-making rather than repetitive rule extraction and data validation tasks
 
+## 🎯 Architecture
+
+
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  : http://13.126.159.42:4000/
 📹 [Video Demo](#) (if applicable)  : https://github.com/ewfx/gaidp-dream-team-innovators/blob/main/artifacts/demo/gaidp-dream-team-innovators-demo.mov
